@@ -30,7 +30,7 @@ Place it under your Home Assistant `config/` blueprint path (keep folder structu
 
 ## 🚀 Quick Start
 
-1. Either copy the YAML blueprint file into your HA `config/blueprints/automation/...` directory or click Import Blueprint and use this link `https://github.com/krzkraw/Create-MQTT-air-multisensor-from-entities/blob/main/blueprints/automation/krzkraw/mqtt_air_multisensor.yaml`
+1. Either copy the YAML blueprint file into your HA `config/blueprints/automation/...` directory or click Import Blueprint and use this link `https://github.com/KRZ303/Create-MQTT-air-multisensor-from-entities/blob/main/blueprints/automation/krzkraw/mqtt_air_multisensor.yaml`
 2. If installing by manual copying: In HA UI: Settings → Automations & Scenes → Blueprints → Import Blueprint → (select the file) or Refresh if already present.
 3. Create an automation from the blueprint.
 4. Fill required inputs: temperature & humidity entities (pressure optional).
